@@ -1,0 +1,363 @@
+Header
+.......
+
+header>
+
+	nav#nav>
+	
+		div.nav-logo>
+
+			img +
+
+			AwesomIcon#toggle-btn
+
+		ul.nav-links>
+
+			5*li>a +
+
+			li.nav-icons> 4*a> AwesomeIcon
+
+	div#banner>
+
+		div.banner-text>
+
+			h1 + 
+
+			h3 +
+
+			2* a
+
+....................................................................................
+....................................................................................
+
+IconsSection
+.............
+
+section#icon-section>
+
+	4*a>AwesomeIcon
+
+....................................................................................
+....................................................................................
+
+Skills
+.......
+
+section#skills>
+
+	div.title>
+
+		div.title-icon> 
+		
+			AwesomeIcon
+
+		div.title-text>
+	
+			h2.title-heading +
+	
+			p.title-sub_heading
+
+
+	div.skills-center>
+
+		4* article.single-skill>
+
+			AwesomeIcon.skill-icon+
+
+			h3+
+
+			p.title-sub_heading 
+
+
+....................................................................................
+....................................................................................
+
+Form
+.....
+
+section#form>
+
+	div.form-content>
+
+		h1.form-title +
+
+		form>
+
+			input_type-email +
+
+			input_type-submit
+
+....................................................................................
+....................................................................................
+
+Work
+.....
+
+section#work>
+
+	div.title>
+
+		div.title-icon> 
+		
+			AwesomeIcon
+
+		div.title-text>
+	
+			h2.title-heading +
+	
+			p.title-sub_heading
+
+	div.work-center>
+
+		div.button-container>
+
+			div.button-group.filter-button-group>
+
+				4*button-data-filter
+
+			div.picture-container>
+
+				article.picutre-item.city,country,water>
+
+					img
+
+....................................................................................
+....................................................................................
+
+About
+.....
+
+section#about>
+
+	div.title>
+
+		div.title-icon> 
+		
+			AwesomeIcon
+
+		div.title-text>
+	
+			h2.title-heading +
+	
+			p.title-sub_heading
+
+
+	div#about-center>
+
+		article#about-photo>
+
+			img
+
+		article#about-text>
+
+			div#accordion>
+
+				3*(h3 + div>p)
+
+....................................................................................
+....................................................................................
+
+Current Prjects
+.................
+
+section#currentProjects>
+
+	div.title>
+
+		div.title-icon> 
+		
+			AwesomeIcon
+
+		div.title-text>
+	
+			h2.title-heading +
+	
+			p.title-sub_heading
+
+	div#currentProjects-center>
+
+		8*article.currentProjects-item> 
+
+			a> img
+
+....................................................................................
+....................................................................................
+
+numbers
+........
+
+#numbers>
+
+	4*article.number>
+
+		AwesomeIcon +
+
+		p.numscroller{modify..data-delay, data-increment} +
+
+		h3
+
+....................................................................................
+....................................................................................
+
+Team
+......
+
+section#team>
+
+	div.title>
+
+		div.title-icon> 
+		
+			AwesomeIcon
+
+		div.title-text>
+	
+			h2.title-heading +
+	
+			p.title-sub_heading
+
+	div#team-center>
+
+		4*article.team-member>
+
+			img+
+
+			h2+
+
+			h5+
+
+			hr+
+
+			p+
+
+			div.team-member_footer>
+
+				4*a>AwesomeIcon
+
+
+....................................................................................
+....................................................................................
+
+Progress Bar
+............
+
+section#progress-bar>
+
+	div.progress-center>
+
+		4*div.progress-item>
+
+			div.progress-text>
+
+				2*h2
+
+			div.progress-bar_1 
+
+....................................................................................
+....................................................................................
+
+Pricing
+.......
+
+section#pricing>
+
+	div.title>
+
+		div.title-icon> 
+		
+			AwesomeIcon
+
+		div.title-text>
+	
+			h2.title-heading +
+	
+			p.title-sub_heading
+
+	div.pricing-center>
+
+		3*article.pricing-card>
+
+			h3+
+
+			h1+
+
+			ul>
+
+				4*li.price-list>
+
+					AwesomeIcon+
+
+					p
+
+....................................................................................
+....................................................................................
+
+Quotes
+.......
+
+section#quotes>
+
+	div.title>
+
+		div.title-icon> 
+		
+			AwesomeIcon
+
+		div.title-text>
+	
+			h2.title-heading +
+	
+			p.title-sub_heading
+
+	div.quotes-center.owl-carousel.owl-theme>
+
+		3*article.quote>
+
+			img +
+
+			blockquote> 
+
+				p> 
+			
+					AwesomeIcon + 
+
+					text
+
+				footer
+
+....................................................................................
+....................................................................................
+
+Footer
+......
+
+footer#footer>
+
+	section#footer-info>
+
+		div.info-center>
+
+			4*div.info-item>
+
+				AwesomeIcon+
+
+				p
+
+	section#footer-map>
+
+		Get "iFrame" From Google Map (press share >> embed-map)
+
+		
+
+	
+
+
+
+	
+			
+
+	
+
+	
+
+
